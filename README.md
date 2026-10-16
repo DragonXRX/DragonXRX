@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React and bash<br>⚡ Just have fun
+🌱 I’m currently learning<br>⚡ Just have fun
 
 
 ## 🌐 Socials:
