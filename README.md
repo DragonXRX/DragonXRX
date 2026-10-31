@@ -5,7 +5,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/achrafxrx/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DragonXR193638) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61586206523458)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Friendly-Bass2313/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%2358CC02.svg?logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/DragonXRX208)
 # 💻 Tech Stack:
